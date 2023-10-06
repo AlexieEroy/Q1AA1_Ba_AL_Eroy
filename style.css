@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.navbar {
+    background-color: darksalmon;
+    color: white;
+    text-align: right;
+    top: 0%;
+    width: 100%;
+}
+
+.logo {
+    float: left;
+    margin-left: 20px;
+}
+
+#links{
+    display: inline;
+    padding: 5px;
+    margin: 5px;
+}
+
+#links a{
+    font-family: fantasy;
+    color: darkslategray;
+    font-style: none;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.banner {
+    background: url(pics/20230926_074232.jpg);
+    background-position: center;
+    height: 87.7vh;
+    width: auto;
+    background-attachment: cover;
+    background-position: center;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer {
+    padding: 0px;
+    margin: 0px;
+    background-color: darksalmon;
+    bottom: 0px;
+    width: auto;
+    height: 40px;
+}
+
+#socmed {
+    text-align: right;
+}
+
+#socmed a {
+    font-family: fantasy;
+    color: darkslategray;
+    font-style: none;
+    text-decoration: none;
+    font-size: small;
+    float: right;
+    margin-right: 20px;
+}
+
+#copyrights {
+    text-align: left;
+    font-family: fantasy;
+    color: darkslategray;
+}
+
+
+.pic1 {
+    text-align: center;
+    margin: auto;
+}
+
+.header {
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+#text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hwb(36 3% 17%);
+    text-align: left;
+    margin-left: 20px;
+    font-size: xx-large;
+}
+
+#quote {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000000;
+    text-align: left;
+    margin-left: 20px;
+}
